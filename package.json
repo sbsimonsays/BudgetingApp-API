@@ -9,7 +9,7 @@
   },
   "name": "budgetingapp-api",
   "description": "Budgeting App API-BackEnd",
-  "version": "1.0.0",
+  "version": "17.4.0",
   "engines": {
     "node": "10.11.0"
   },
