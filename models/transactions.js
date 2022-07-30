@@ -1,0 +1,51 @@
+module.exports = [
+  {
+    item_name: "Paycheck",
+    amount: 540.91,
+    date: "July 13",
+    from: "DOLGEN LLC",
+    category: "income",
+  },
+  {
+    item_name: "Corsair H90",
+    amount: -50.00,
+    date: "July 16",
+    from: "M. Schlosser",
+    category: "reddit",
+  },
+  {
+    item_name: "Alpherior Miami V2 Pudding Keycaps",
+    amount: 23.16,
+    date: "July 17",
+    from: "A. Ramirez",
+    category: "reddit",
+  },
+  {
+    item_name: "PC-Building Service",
+    amount: 140,
+    date: "July 23",
+    from: "Seymour Butts",
+    category: "PC",
+  },
+  {
+    item_name: "DROP.com HD58X Jubilee",
+    amount: -174.53,
+    date: "July 27",
+    from: "DROP.com",
+    category: "headphones",
+  },
+  {
+    item_name: "JW2 Combat Master Package",
+    amount: 1700.01,
+    date: "July 28",
+    from: "Mr. Wick",
+    category: "continental",
+  },
+  {
+    item_name: "Dunkin Donuts",
+    amount: 12.43,
+    date: "July 29",
+    from: "Dunkin Donuts",
+    category: "nom-nom",
+  },
+];
