@@ -3,5 +3,26 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "budgetingapp-api",
+  "description": "Budgeting App API-BackEnd",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.11.0"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbsimonsays/BudgetingApp-API.git"
+  },
+  "author": "Spencer Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbsimonsays/BudgetingApp-API/issues"
+  },
+  "homepage": "https://github.com/sbsimonsays/BudgetingApp-API#readme"
 }
