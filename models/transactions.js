@@ -8,7 +8,7 @@ module.exports = [
   },
   {
     item_name: "Corsair H90",
-    amount: -50.00,
+    amount: -49.99,
     date: "July 16",
     from: "M. Schlosser",
     category: "reddit",
@@ -22,7 +22,7 @@ module.exports = [
   },
   {
     item_name: "PC-Building Service",
-    amount: 140,
+    amount: 160.00,
     date: "July 23",
     from: "Seymour Butts",
     category: "PC",
